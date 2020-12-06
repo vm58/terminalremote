@@ -1,5 +1,5 @@
 # Simple Roku Terminal Remote
-This is a simple Python Curses based application which will allow you to connect to and control a Roku device on your local network via your computer keyboard.
+This is a simple Python Curses based application which will allow you to connect to and control a Roku device on your local network via your computer keyboard. It works using the Roku External Control Protocol (ECP), which is a simple RESTful API.
 
 ## Requirements
 ### Python
