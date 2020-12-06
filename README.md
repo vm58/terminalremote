@@ -3,9 +3,9 @@ This is a simple Python Curses based application which will allow you to connect
 
 ## Requirements
 ### Python
-You must have the following installed:
+You must have the following installed on your local system:
 - [python3](https://www.python.org/)
-- Two Python modules (you can install with [pip](https://pypi.org/project/xmltodict/)):
+- Two Python modules are used in the remote.py Python script (you can install modules with [pip](https://pypi.org/project/xmltodict/)):
   - [requests](https://pypi.org/project/requests/)
   - [xmltodict](https://pypi.org/project/xmltodict/)
  ### Configuration
