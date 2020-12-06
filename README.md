@@ -11,6 +11,6 @@ You must have the following installed on your local system:
   - [requests](https://pypi.org/project/requests/)
   - [xmltodict](https://pypi.org/project/xmltodict/)
  ### Configuration
- Open the file remote.py and edit the line containing 'rokuIp = "" to contain the local IP address of the Roku device you would like to interface with. For example:
+ Open the file remote.py and edit the line containing 'rokuIp = ' to contain the local IP address of the Roku device you would like to interface with. For example:
  >rokuIp = "192.168.0.32"
 
