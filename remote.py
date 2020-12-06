@@ -7,7 +7,7 @@ import requests
 import xmltodict
 
 #Set the IP address of the Roku device here
-rokuIp = "192.168.0.32"
+rokuIp = "127.0.0.1"
 
 rokuUrl = "http://" + rokuIp + ":8060"
 mediaQuery = rokuUrl + "/query/media-player"
