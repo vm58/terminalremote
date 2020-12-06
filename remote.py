@@ -6,7 +6,7 @@ import pprint
 import requests
 import xmltodict
 
-#Set the IP address of the Roku device here
+#Set the IP address of your Roku device here
 rokuIp = "127.0.0.1"
 
 rokuUrl = "http://" + rokuIp + ":8060"
