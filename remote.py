@@ -43,7 +43,7 @@ def main(stdscr):
     stdscr.addstr("Device: " + deviceInfo['device-info']['user-device-name'] +\
     "\nLocation: " + deviceInfo['device-info']['user-device-location'] +\
     "\nNetwork: " + deviceInfo['device-info']['network-name'] + "\n\n")
-    stdscr.addstr("""Simple Roku
+    stdscr.addstr("""Interactive Roku
  ______              _           __  ___                 __     
 /_  __/__ ______ _  (_)__  ___ _/ / / _ \___ __ _  ___  / /____ 
  / / / -_) __/  ' \/ / _ \/ _ `/ / / , _/ -_)  ' \/ _ \/ __/ -_)
